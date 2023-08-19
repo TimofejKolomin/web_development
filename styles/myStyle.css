@@ -1,0 +1,80 @@
+body {
+    font-family: Arial;
+}
+.pictureSushi img {
+    width: 40%;
+}
+.greeting {
+    font-size: 24pt;
+}
+.headerVerdana {
+    font-family: Verdana
+}
+.advertising {
+    margin-left: 30pt;
+}
+footer {
+    text-align: right;
+    /* background-color: grey; */
+}
+header {
+    text-align: center;
+    font-size: 24pt;
+}
+main {
+    font-size: 16pt;
+    text-align: justify;
+}
+.timeNote1 {
+    font-size: 14pt;
+    margin-top: 5pt;
+    margin-bottom: 5pt;
+}
+.timeNote2 {
+    font-size: 14pt;
+    margin-top: 5pt;
+    margin-bottom: 5pt;
+}
+.bigger {
+    font-size: 24pt;
+}
+table.pricelist th, table.pricelist td {
+    border: gray thin solid;
+    padding: 4px;
+}
+table.catalog {
+    border-collapse: collapse;
+}
+table.catalog td {
+    border-top: black thin dotted;
+    border-bottom: black thin dotted;
+    padding: 10px;
+}
+table.catalog img {
+    width: 200px;
+    height: 200px;
+}
+table.pricelist thead {
+    color:  white;
+    background-color: grey;
+}
+table.pricelist tfoot {
+    font-style: italic;
+    text-align: right;
+}
+nav {
+    float: left;
+    width: 200px;
+    margin: 0px 30px 0px 0px;
+    padding: 10px;
+    border: black medium double;
+    border-radius: 10px;
+}
+nav div {
+    font-size: 24pt;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.beverages {
+    margin-left: 200px;
+}
